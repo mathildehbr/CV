@@ -1,3 +1,86 @@
+/* header */
+.header {
+  margin-right: 0;
+  margin: 0;
+  line-height: 70px;
+  height: 70px;
+  width: 100%;
+  background-color: rgba(0, 100, 0, 0.39);
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+
+.header .header-logo {
+  color: white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-size: large;
+  float: left;
+  margin-left: 30px;
+  padding-bottom: 0;
+}
+
+.header .header-menu {
+  float: right;
+  margin-right: 30px;
+}
+.header .header-menu a {
+  color: white;
+  margin-left: 15px;
+}
+
+/* banners  */
+.banner {
+  margin-top: -20px;
+}
+.banner .banner-image {
+  position: relative
+}
+.banner .banner-text {
+  position: absolute;
+  width: 90%;
+  text-align: center;
+  top: 20%;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.banner .banner-text .image {
+  margin-left: auto;
+  margin-right: auto;
+}
+.banner .banner-text h1 {
+  color:white;
+}
+
+/* containers */ 
+.container .columns .column {
+  text-align: center;
+}
+.first-block {
+  margin-top: 80px;
+}
+.container h2 {
+  color: darkgreen;
+  margin-top: 15px;
+  
+}
+.columns.is-multiline {
+  width: -webkit-fill-available;
+}
+
+/* experiment containers */
+.technologies {
+  color:forestgreen;
+}
+.date {
+  float: right;
+}
+.container .columns .column.is-left {
+  text-align: left;
+}
+
+/* global CSS */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +93,29 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.light-beige {
+  background-color: #cdcac5b5;
+}
+.bold {
+  font-weight: bold;
+}
+.subtitle {
+  font-weight: bold;
+  color:forestgreen;
+  margin-top: 5px;
+}
+
+/* cards */
+.card {
+  margin-top: 10px;
+}
+.card .columns .column.is-full{
+  padding-top: 0;
+  padding-bottom: 0;
+  height: 20px;
+}
+
+.card.contact a {
+  color: black;
 }

@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Vue.js | TypeScript | Vuetify",
+        "level": 4
+    },
+    {
+        "name":"Angular | Bootstrap",
+        "level": 1
+    },
+    {
+        "name":"React | Bulma",
+        "level": 1
+    },
+    {
+        "name":"Java | Spring",
+        "level": 3
+    }, 
+    {
+        "name":"Selenium | Protractor | Cumcumber",
+        "level": 3
+    },
+    {
+        "name":"Git",
+        "level": 4
+    },
+    {
+        "name":"Jenkins | Openshift",
+        "level": 3
+    },
+    {
+        "name":"Docker",
+        "level": 3
+    }
+]

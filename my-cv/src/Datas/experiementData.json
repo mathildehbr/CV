@@ -1,0 +1,147 @@
+[
+    {
+        "position": "Développeuse Web | Fullstack - projet : Vaccination Covid-19",
+        "companyName": "Sopra Steria - Assurance maladie (Nantes)",
+        "date": "Novembre 2020 – Avril 2021",
+        "assignment": " Développement d’un service destiné aux professionnels de santé pour le suivi de la vaccination au Covid-19",
+        "tasks": [
+            {
+                "name": "Effectuer la conception et le développement front-end",
+                "technologies": "VueJs | Type script | HTML | Css"
+            },
+            {
+                "name": "Effectuer la conception et le développement middle-end",
+                "technologies": "Java 8 | Spring"
+            },
+            {
+                "name": "Effectuer les déploiements sur environnement / mise en production",
+                "technologies": "Jenkins | Openshift"
+            },
+            {
+                "name": "Effectuer les tests automatisés",
+                "technologies": "Cucumber | Protractor | Selenium"
+            },
+            {
+                "name": "Analyser la qualité de code",
+                "technologies": "Sonar"
+            },
+            {
+                "name": "Enrichir la documentation Wiki",
+                "technologies": "GitLab"
+            },
+            {
+                "name": "Gestion des versions",
+                "technologies": "GitLab"
+            },
+            {
+                "name": "Relecture et proposition d’améliorations des merge requests",
+                "technologies": "GitLab"
+            },
+            {
+                "name": "Utilisation de l’outil de conteneurisation",
+                "technologies": "Docker"
+            },
+            {
+                "name": "Animer des réunions",
+                "technologies": ""
+            },
+            {
+                "name": "Mise en pratique de la méthodologie agile",
+                "technologies": "JIRA | Trello"
+            },
+            {
+                "name": "Participer aux instances Scrum (sprint planning, daily-meeting, rétrospective, ...)",
+                "technologies": ""
+            },
+            {
+                "name": "Former de nouveaux arrivants",
+                "technologies": ""
+            },
+            {
+                "name": "Travailler sur un projet à enjeux sanitaires et politiques",
+                "technologies": ""
+            }
+        ]
+    },
+    {
+        "position": "Développeuse Web | Fullstack - projet : Téléservices personnel de santé",
+        "companyName": "Sopra Steria - Assurance maladie (Nantes)",
+        "date": "Juin 2019 – Novembre 2020",
+        "assignment": "Développement de services destinés aux professionnels de santé. Notamment le suivi des affections de longues durées, la déclaration des maladies professionnelles et accident du travail ou la déclaration des arrêts de travail",
+        "tasks": [
+            {
+                "name": "Effectuer la conception et le développement front-end",
+                "technologies": "VueJs | Angular 7 | Type script | Java Script | HTML | Css"
+            },
+            {
+                "name": "Effectuer la conception et le développement middle-end",
+                "technologies": "Java 8 | Spring"
+            },
+            {
+                "name": "Effectuer les déploiements sur environnement / mise en production",
+                "technologies": "Jenkins | Openshift"
+            },
+            {
+                "name": "Effectuer les tests automatisés",
+                "technologies": "Cucumber | Protractor | Selenium"
+            },
+            {
+                "name": "Création de models PDF",
+                "technologies": "Jasper"
+            },
+            {
+                "name": "Enrichir la documentation Wiki",
+                "technologies": "GitLab"
+            },
+            {
+                "name": "Gestion des versions",
+                "technologies": "GitLab"
+            },
+            {
+                "name": "Relecture et proposition d’améliorations des merge requests",
+                "technologies": "GitLab"
+            },
+
+            {
+                "name": "Mise en pratique de la méthodologie agile",
+                "technologies": "JIRA | Trello"
+            },
+            {
+                "name": "Participer aux instances Scrum (sprint planning, daily-meeting, rétrospective, ...)",
+                "technologies": ""
+            }
+        ]
+    },
+    {
+        "position": "Customer Success Manager",
+        "companyName": "Work 4 (Paris)",
+        "date": "Janvier-Juin 2018 & Novembre-Décembre 2018",
+        "assignment": "Poste opérationnel dans une entreprise Franco-Américaine d’une cinquantaine de personnes proposant des solutions de recrutement et de promotion de marque employeur via les réseaux sociaux, principalement Facebook.",
+        "tasks": [
+            {
+                "name": "Implémentation des solutions techniques (campagnes de publicité, applications carrière, Facebook jobs)",
+                "technologies": "Django | FacebookAds"
+            },
+            {
+                "name": "Gestion portefeuille / Renouvellement de contrats (français et anglais)",
+                "technologies": "Zendesk | SalesForce"
+            },
+            {
+                "name": "Création des visuelles pour les campagnes de recrutement ",
+                "technologies": ""
+            },
+            {
+                "name": "Participation à la création d’un nouveau produit Chabot",
+                "technologies": ""
+            },
+            {
+                "name": "Amélioration des procédures et des outils en interne",
+                "technologies": ""
+            },
+            {
+                "name": "Méthodologie agile",
+                "technologies": "JIRA"
+            }
+        ]
+    }
+]
